@@ -1,0 +1,30 @@
+body{background-image: url(image/1.jpg);background-size:cover;background-attachment:fixed;}
+
+h1 {font-family:"courier";
+	font-size: 36px;
+	color:#6c6c6c;}
+
+h2 {font-family:"courier";
+	font-size: 30px;
+	color:#004b97;}
+
+h4 {text-align:right;
+	font-family:"courier";
+	font-size: 15px;
+	color:#d1e9e9;}
+
+h5 {color:#ffffff;
+	text-align:right;}
+
+pre {font-family:"courier";
+	font-size: 20px;
+	color:#00aeae;}
+
+#header {text-align:center;width:100%;height:100px;background-color:#408080;padding:10px}
+#nav{width:100%;height:40px; background-color:#005757}
+#nav a{float:left;color:#ffffff;text-align:center;padding:14px 16px;text-decoration:none;font-size:18px}
+#article {width:100%;height:1000px;padding: 10px}
+#footer {position:fixed;bottom: 0px;clear:both;width:100%;height:30px;text-align:center;background-color:#003e3e;padding:1em}
+
+.column1{float: left;width: 45%;height:500px;padding: 15px;text-align: center;}
+.column2{float: right;width: 45%;height:500px;padding: 15px;text-align: center;}
